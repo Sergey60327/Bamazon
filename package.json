@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey60327/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey60327/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Sergey60327/Bamazon#readme",
+  "dependencies": {
+    "my": "^0.3.3",
+    "sql": "^0.75.0"
+  }
+}
